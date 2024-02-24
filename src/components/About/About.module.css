@@ -1,0 +1,13 @@
+.aboutSec {
+  text-align: center;
+  padding: 62px 0;
+}
+.changeClr {
+  cursor: pointer;
+  padding: 10px 30px;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: 20px;
+}
